@@ -23,7 +23,7 @@ This project evaluates the performance of cache memory in symmetric multiprocess
 - Insights into system bottlenecks and optimization opportunities
 
 📄 Full report available [here](SMPCache_Simulator_Project/documentation/SMP%20CACHE%20SIMULATOR.pdf)
-📊 See simulation outputs and graphs in the [results folder](SMPCache_Simulator_Project/results)
+📊 See simulation outputs and graphs in the [results folder](SMPCache_Simulator_Project/images)
 ---
 
 ## 📁 Project 2: Pura Dance Registration System
