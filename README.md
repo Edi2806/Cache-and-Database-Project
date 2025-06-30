@@ -22,7 +22,7 @@ This project evaluates the performance of cache memory in symmetric multiprocess
 - Analysis of bus traffic and local/global hit rates
 - Insights into system bottlenecks and optimization opportunities
 
-📄 Full report available [here](SMPCache_Simulator_Project/documentation/Report.pdf)
+📄 Full report available [here](SMPCache_Simulator_Project/documentation/SMP%20CACHE%20SIMULATOR.pdf)
 
 ---
 
