@@ -11,7 +11,7 @@ This repository contains two major academic projects developed as part of the *C
 
 ### Overview
 This project evaluates the performance of cache memory in symmetric multiprocessor systems using the SMPCache Simulator. Various configurations and protocols (MSI, MESI, DRAGON) were tested, and performance metrics such as hit/miss rates were analyzed.
-![Graph Example](Pura_Dance_Registration_System/diagrams/pic_2.png)
+![Graph Example](SMPCache_Simulator_Project/images/P1_LRU.png)
 
 ### Tools Used
 - SMPCache Simulator
@@ -31,7 +31,8 @@ This project evaluates the performance of cache memory in symmetric multiprocess
 
 ### Overview
 An intuitive student registration system for a dance school offering Bachata, Salsa, Lady Styling, and Couple Team classes. Includes GUI for managing students and schedules.
-![Graph Example](SMPCache_Simulator_Project/images/P1_LRU.png)
+![Graph Example](Pura_Dance_Registration_System/diagrams/pic_2.png)
+
 ### Technologies
 - Python
 - SQLite
