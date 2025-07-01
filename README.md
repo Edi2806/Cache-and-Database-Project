@@ -31,7 +31,7 @@ This project evaluates the performance of cache memory in symmetric multiprocess
 
 ### Overview
 An intuitive student registration system for a dance school offering Bachata, Salsa, Lady Styling, and Couple Team classes. Includes GUI for managing students and schedules.
-
+![Graph Example](SMPCache_Simulator_Project/images/P1_LRU.png)
 ### Technologies
 - Python
 - SQLite
